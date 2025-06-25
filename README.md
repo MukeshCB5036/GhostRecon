@@ -76,20 +76,9 @@ Create a new pull request
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-🙏 Acknowledgments
+ Acknowledgments
 
 crt.sh for providing passive subdomain data
 Python libraries: requests, dnspython, tqdm
 Inspiration from tools like Sublist3r and assetfinder
 
----
-
-### ✅ Next Steps
-
-1. Copy this content into your `README.md` file.
-2. Save and commit:
-
-```bash
-git add README.md
-git commit -m "Updated README with simplified and professional layout"
-git push
