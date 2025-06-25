@@ -1,4 +1,4 @@
-# GHOSTRECON
+# GhostRecon
 
 **GhostRecon** is a simple and effective external attack surface mapping tool designed to enumerate subdomains of a given domain. It leverages public data sources like certificate transparency logs and allows optional brute-force enumeration using wordlists.
 
